@@ -12,7 +12,7 @@ labels:
   - Drone
   - Adobe
   - Video
-summary: A Drone video of Maui that I shot and edited using the DJI Mavic Air and Adobe Premiere Pro.
+summary: A Drone video of Maui that I shot and edited in 4K using the DJI Mavic Air and Adobe Premiere Pro. I also used Adobe Media Encoder to create proxy files.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/mavic-air.png">
