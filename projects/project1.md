@@ -18,4 +18,4 @@ summary: I created a bank database program for my ICS212 class at the University
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Using a linked list as the main data structure, I created a bank database in C for my Program Structure class (ICS212) at UH Manoa.
+Using a linked list as the main data structure, I created a bank database in C for my Program Structure class (ICS212) at UH Manoa. 
