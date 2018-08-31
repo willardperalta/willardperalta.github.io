@@ -15,7 +15,7 @@ summary: I created a bank database program for my ICS212 class at UH Manoa using
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/linkedlist.png">
+  <img class="ui image" src="../images/linkedlist.gif">
 </div>
 
 Using a linked list as the main data structure, I created a bank database in C for my Program Structure class (ICS212) at UH Manoa. 
