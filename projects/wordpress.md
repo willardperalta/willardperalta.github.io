@@ -10,7 +10,7 @@ labels:
   - Wordpress
   - HTML
   - Design
-summary: I created a personal business website using wordpress,
+summary: I created a personal business website using Wordpress.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/wordpress-logo.png">
