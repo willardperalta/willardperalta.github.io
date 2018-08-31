@@ -11,11 +11,11 @@ labels:
   - List
   - Database
   - Pointers
-summary: I created a bank database program for my ICS212 class at UH Manoa using in C using a linked list.
+summary: I created a bank database program for my ICS212 class at UH Manoa in C using a linked list.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/linkedlist.gif">
+  <img src="../images/linkedlist.gif">
 </div>
 
 Using a linked list as the main data structure, I created a bank database in C for my Program Structure class (ICS212) at UH Manoa. 
