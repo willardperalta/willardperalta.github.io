@@ -8,9 +8,8 @@ permalink: projects/mavicair
 date: 2018-08-16
 labels:
   - DJI
-  - Mavic Air
-  - Adobe Premiere Pro
-  _ Adobe Media Encoder
+  - Mavic
+  - Adobe
 summary: A Drone film of Maui that I shot and edited using the DJI Mavic Air and Adobe Premiere Pro.
 ---
 
