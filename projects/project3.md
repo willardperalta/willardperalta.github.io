@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/mavic-air.png
-title: Vacay
+title: Mavic Air
 permalink: projects/mavicair
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-16
