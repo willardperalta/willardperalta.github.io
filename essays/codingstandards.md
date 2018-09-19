@@ -26,6 +26,7 @@ For example, I would always name the current version of the video that I am edit
 This is useful because it’s very easy to accidentally make changes to an old version of the edit instead of the current version. Another example is I always create copies of these particular sequences that contain the “formal events” of the wedding. These sequences contain synced up camera angles, and somewhere down the line when I’m editing, something goes out of sync and I have to replace it. 
 
 <img src="../images/sequencecopy.png">
+
 Essentially, I always create a backup copy of this all the time, even if it may not be needed. There are many more examples that I could list but that’s the general idea of my personal standards in video editing. Without these standards, a simple mistake can lead to a lot of wasted time. Much like coding standards, these editing standards also makes it easier on someone else looking at the project.
 
 ## Good Standards = Good Habits = Good Software Engineering
