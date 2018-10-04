@@ -26,6 +26,6 @@ If I were to tell my naive younger self what a framework is, the closest thing I
 
 ## Let the World See Your Masterpieces
 I think UI Frameworks are the same thing. Using straight HTML and CSS to design websites is almost like going out into the wilderness and foraging for supplies to paint. Why would anyone do that? There are a lot more advanced, and precise painting tools that you can buy in Ben Franklin than you could probably make by yourself. If you can make painting supplies that are better than Ben Franklin's, then you might as well switch hobbies and create paint supplies rather than actually make the paintings. The point I'm trying to make is that it's in your best interest to use tools available to you especially if it helps facilitate your creativity. Frameworks allow you to spend more time on thinking about design rather than messing around with getting margins right. If you use frameworks then you are essentially getting quality supplies at Ben Franklin. When you're getting quality supplies at Ben Franklin, then you can create a lot of quality masterpieces for the world to see. 
-<img src="../images/bobross.jpg" height="200px" width="400px">
+<img src="../images/bobross.jpg" height="200px" width="100px">
 
 
