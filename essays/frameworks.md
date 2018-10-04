@@ -21,7 +21,7 @@ The first time I ever learned HTML and CSS was a few years ago on CodeCademy and
 ## Painting Your Masterpiece 
 If I were to tell my naive younger self what a framework is, the closest thing I can think of is a template. At least that's the way that I think about it. Instead of having to type out the fact that you want to have margins on the sides of your page, you just put everything inside of a ui container and everything is automatically taken care of. When designing a web page, you don't want to be spending too much time focusing on things that can easily be taken care of and the things that don't really require much creative thought. You want to spend that time towards thinking about how your page will look. For example, if you want to learn how to paint beautiful water color paintings, you get better at it and create nicer designs by learning how to paint. What a surprise right? But imagine this. Imagine if while in the process of learning how to paint, you also had to learn how to gather supplies and equipment for your paintings. And I don't mean going to the store and buying a bunch of brushes, I mean imagine going out into nature and literally gathering everything from scratch to make all your paint mixes, brushes, and paper, rather than just going to Ben Franklin to get what you need. You'd spend half your time learning how to gather supplies, and the other half actually painting.
 
-<img src="../images/benfranklins.jpg" height="300px" width="500px">    <img src="../images/insidestore.jpg" height="300px" width="500px" align="right">
+<p><img src="../images/benfranklins.jpg" height="300px" width="500px">    <img src="../images/insidestore.jpg" height="300px" width="500px"></p>
 
 
 ## Let the World See Your Masterpieces
