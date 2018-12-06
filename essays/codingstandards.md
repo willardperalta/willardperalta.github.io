@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Standards Everywhere
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-05
+date: 2018-09-18
 labels:
   - Coding
   - Standards

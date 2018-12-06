@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Data Science",
+      "name": "App Development",
       "keywords": [
       ]
     },
@@ -60,7 +60,8 @@
         "MacOS",
         "Unix",
         "Bash/Terminal",
-        "Wordpress"
+        "Wordpress",
+        "Meteor"
       ]
     }
   ],
