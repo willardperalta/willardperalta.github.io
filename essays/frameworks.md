@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Ben Franklin Framework 
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-05
+date: 2018-10-02
 labels:
   - Frameworks
   - Semantic
