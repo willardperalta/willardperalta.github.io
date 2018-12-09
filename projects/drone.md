@@ -15,11 +15,12 @@ labels:
 summary: A Drone video of Maui that I shot and edited in 4K using the DJI Mavic Air and Adobe Premiere Pro. I also used Adobe Media Encoder to create proxy files.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/mavic-air.png">
-<img class="ui medium right floated rounded image" src="../images/encoder.png">
-<img class="ui medium right floated rounded image" src="../images/blackrock.png">
+<img src="../images/blackrock.png" height="300px" width="500px">
 
 Cinematography is one of my many passions, so I bought a drone in June of 2018 while I was back home in Maui for the summer. I bought the DJI Mavic Air which is a consumer-level drone that was announced by DJI in the beginning of 2018, and is one of DJI's best drones in my opinion. The Mavic Air can shoot in 4K video resolution and can shoot up to 120fps. 
+
+<img class="ui medium right floated rounded image" src="../images/mavic-air.png">
+<img class="ui medium right floated rounded image" src="../images/encoder.png">
 
 After getting this drone I set out to create a short drone reel that would show off pretty much all of Maui and its beauty. So in June and July, I went to different locations all over Maui and got drone footage of all of Maui's famous locations such as Black Rock in Kaanapali, Big Beach in Makena, and Hookipa at the North Shore. In those two months I learned a lot about flying my drone. I learned how to use the built in flying modes such as obstacle avoidance and tracking modes. I also learned the difference between using a 2.4GHz or 5.8 Ghz wifi signal to control the aircraft. 
 
