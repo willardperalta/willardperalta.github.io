@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LandingPage2.jpeg
+image: images/meteorlogo.png
 title: Recruiting Grounds
 permalink: projects/recruitinggrounds
 # All dates must be YYYY-MM-DD format!
