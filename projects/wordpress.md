@@ -15,7 +15,7 @@ summary: I created a personal business website using Wordpress.
 
 <img class="ui medium right floated rounded image" src="../images/wordpress-logo.png">
 
-I work as a website assistant for the East Asian and Literature program at UH Manoa, and most of my tasks there involve updating the EALL website with Wordpress. I learned a lot while working as a website assistant about design, HTML, and wordpress itself, so I decided to use those skills and create a website of my own. 
+I used to work as a website assistant for the East Asian and Literature program at UH Manoa in 2018. Most of my tasks there involved updating the EALL website with Wordpress. I learned a lot while working as a website assistant about design, HTML, and Wordpress itself, so I decided to use those skills and create a website of my own. 
 
 <img class="ui medium rounded image" src="../images/willfilms1.png">
 
