@@ -10,7 +10,7 @@ labels:
   - Wordpress
   - HTML
   - Design
-summary: I created a personal business website using Wordpress.
+summary: I created a personal business website with Wordpress using the knowledge I gained from my old job as a website assistant for the East Asian Language and Literature program at UH Manoa.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/wordpress-logo.png">
