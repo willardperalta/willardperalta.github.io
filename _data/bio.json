@@ -50,7 +50,8 @@
       "level": "",
       "keywords": [
         "C",
-        "Java"
+        "Java",
+        "Javascript"
       ]
     },
     {
@@ -61,7 +62,9 @@
         "Unix",
         "Bash/Terminal",
         "Wordpress",
-        "Meteor"
+        "Github",
+        "Meteor",
+        "Semantic UI"
       ]
     }
   ],
@@ -89,6 +92,18 @@
   ],
   "work": [
     {
+      "company": "Hawaii State Digital Archives",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2019-01-01",
+      "endDate": "Present",
+      "summary": "Software engineering internship at Hawaii State Digital Archives",
+      "highlights": [
+        "Application Development",
+        "Team based software engineering"
+      ]
+    },
+    {
       "company": "Summer Bridge",
       "position": "Lab Assistant",
       "website": "",
@@ -105,11 +120,12 @@
       "position": "Website Assistant",
       "website": "https://www.hawaii.edu/eall/",
       "startDate": "2018-02-01",
-      "endDate": "Present",
+      "endDate": "2019-01-01",
       "summary": "",
       "highlights": [
         "Maintain, troubleshoot, and update EALL website with wordpress",
-        "Contact faculty to update profile pictures and bios"
+        "Contact faculty to update profile pictures and bios",
+        "Use HTML and CSS to edit website"
       ]
     },
     {
