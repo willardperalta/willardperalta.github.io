@@ -5,7 +5,7 @@ image: images/twittericon.png
 title: Twitter Bot
 permalink: projects/twitterbot
 # All dates must be YYYY-MM-DD format!
-date: 2019-23-07
+date: 2019-07-23
 labels:
   - Python
   - Twitter
@@ -14,7 +14,7 @@ labels:
 summary: A simple Twitter bot using Dark Sky API, tweepy, and the Requests python package to tweet daily weather information for various areas around Maui.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/mauiweatherbot.png">
+<img class="ui medium right floated rounded image" src="../images/mauiweatherbot">
 
 A simple Twitter bot using Dark Sky API, tweepy, and the Requests python package to tweet daily weather information for various areas around Maui. I used pythonanywhere.com to automatically send out a tweet at 7am daily.
 
