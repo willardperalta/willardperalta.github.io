@@ -6,7 +6,7 @@
     "email": "willardp@hawaii.edu",
     "phone": "808-385-5380",
     "website": "https://willardperalta.github.io",
-    "summary": "I am studying for a B.S. in Computer Science and a B.A. in Creative Media at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -64,7 +64,8 @@
         "Wordpress",
         "Github",
         "Meteor",
-        "Semantic UI"
+        "Semantic UI",
+        "Android Studio"
       ]
     }
   ],
@@ -74,16 +75,6 @@
       "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Creative Media (expected Fall, 2020)",
-      "studyType": "B.A.",
-      "startDate": "2019-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -164,7 +155,7 @@
       "title": "UH Manoa Dean's List",
       "date": "2017",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "I got on the Dean's list for getting a GPA over 3.8"
+      "summary": "Earn a GPA of over 3.8 at the University of Hawaii at Manoa."
     }
   ],
   "references": [
