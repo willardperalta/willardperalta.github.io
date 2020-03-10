@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "App Development",
+      "name": "Data Visualization",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Computer Vision",
       "keywords": [
       ]
     }
@@ -49,9 +49,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "React",
+        "Python",
         "Java",
-        "Javascript"
+        "C"
       ]
     },
     {
@@ -60,23 +64,19 @@
       "keywords": [
         "MacOS",
         "Unix",
-        "Bash/Terminal",
-        "Wordpress",
-        "Github",
-        "Meteor",
-        "Semantic UI",
-        "Android Studio"
+        "Linux",
+        "Bash/Terminal"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-05-16",
+      "gpa": "3.68",
       "courses": [
       ]
     },
@@ -100,10 +100,11 @@
       "endDate": "Present",
       "summary": "Software engineering internship at Hawaii State Digital Archives",
       "highlights": [
-        "Application Development",
-        "Self Directed",
+        "Micro web-service",
+        "Scrum",
         "Java",
-        "Text Recognition"
+        "Git",
+        "Optical Character Recognition"
       ]
     },
     {
