@@ -3,7 +3,7 @@
     "name": "Willard Peralta Jr.",
     "label": "Student",
     "picture": "https://willardperalta.github.io/images/willardperalta.jpg",
-    "email": "willardp@hawaii.edu",
+    "email": "willard.peralta@gmail.com",
     "phone": "808-385-5380",
     "website": "https://willardperalta.github.io",
     "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2020.",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "App Development",
+      "name": "Data Visualization",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Computer Vision",
       "keywords": [
       ]
     }
@@ -49,9 +49,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "React",
+        "Python",
         "Java",
-        "Javascript"
+        "C"
       ]
     },
     {
@@ -60,24 +64,20 @@
       "keywords": [
         "MacOS",
         "Unix",
-        "Bash/Terminal",
-        "Wordpress",
-        "Github",
-        "Meteor",
-        "Semantic UI",
-        "Android Studio"
+        "Linux",
+        "Bash/Terminal"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "endDate": "2020-05-16",
+      "gpa": "3.68",
+      "courses": ["Design for Mobile Devices", "Video Game Design", "Python Image Processing Project", "Data Networks", "Operating Systems", "Software Engineering", "Database Systems", "AI Programming", "Algorithms", "Computer Vision", "Discrete Math"
       ]
     },
     {
@@ -87,7 +87,7 @@
       "startDate": "2015-09-01",
       "endDate": "2017-05-01",
       "gpa": "3.93",
-      "courses": [
+      "courses": ["Intro to Computer Science"
       ]
     }
   ],
@@ -97,25 +97,11 @@
       "position": "Intern",
       "website": "",
       "startDate": "2019-01-01",
-      "endDate": "Present",
+      "endDate": "2019-05-01",
       "summary": "Software engineering internship at Hawaii State Digital Archives",
       "highlights": [
-        "Application Development",
-        "Self Directed",
-        "Java",
-        "Text Recognition"
-      ]
-    },
-    {
-      "company": "Summer Bridge",
-      "position": "Lab Assistant",
-      "website": "",
-      "startDate": "2018-06-12",
-      "endDate": "2018-07-06",
-      "summary": "Student assistant for the Summer Bridge 2018 program at UH Maui College",
-      "highlights": [
-        "Setup and breakdown physics demonstrations",
-        "Assist students with problem solving"
+        "Helped implement Optical Character Recognition web micro-service",
+        "Java, Scrum/Agile, Git"
       ]
     },
     {
@@ -124,11 +110,11 @@
       "website": "https://www.hawaii.edu/eall/",
       "startDate": "2018-02-01",
       "endDate": "2019-01-01",
-      "summary": "",
+      "summary": "Website Assistant for the Department of East Asian Language and Literature",
       "highlights": [
-        "Maintain, troubleshoot, and update EALL website with wordpress",
-        "Contact faculty to update profile pictures and bios",
-        "Use HTML and CSS to edit website"
+        "Maintained the website for the Department of East Asian Literature and Languages",
+        "Fixed HTML of existing web pages including faculty profiles and course directories",
+        "Met weekly with website committee to discuss specific needs of the website"
       ]
     },
     {
@@ -137,25 +123,26 @@
       "website": "https://www.hifocused.com",
       "startDate": "2015-06-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Video editor for a wedding videography company.",
       "highlights": [
-        "Edit wedding videos using Adobe Premiere Pro",
-        "Color correct footage, and mix audio"
+        "Edit wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
+        "Sync video and audio, color correct, organize footage, export video files
+"
       ]
     }
   ],
   "awards": [
     {
+      "title": "UH Manoa Dean's List",
+      "date": "2017, 2018, 2019, 2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earn a GPA of over 3.5 at the University of Hawaii at Manoa."
+    },
+    {
       "title": "B+ Scholarship",
       "date": "2015",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "UH Manoa Dean's List",
-      "date": "2017",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Earn a GPA of over 3.8 at the University of Hawaii at Manoa."
     }
   ],
   "references": [
