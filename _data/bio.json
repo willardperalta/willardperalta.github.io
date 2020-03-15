@@ -97,7 +97,7 @@
       "position": "Intern",
       "website": "",
       "startDate": "2019-01-01",
-      "endDate": "Present",
+      "endDate": "2019-05-01",
       "summary": "Software engineering internship at Hawaii State Digital Archives",
       "highlights": [
         "Helped implement Optical Character Recognition web micro-service",
@@ -133,16 +133,16 @@
   ],
   "awards": [
     {
+      "title": "UH Manoa Dean's List",
+      "date": "2017, 2018, 2019, 2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earn a GPA of over 3.5 at the University of Hawaii at Manoa."
+    },
+    {
       "title": "B+ Scholarship",
       "date": "2015",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "UH Manoa Dean's List",
-      "date": "2017, 2018, 2019",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Earn a GPA of over 3.5 at the University of Hawaii at Manoa."
     }
   ],
   "references": [
