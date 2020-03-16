@@ -17,7 +17,7 @@ summary: A web application I made using the Meteor framework in a team of 3 for 
 <a href="http://recruitinggrounds.meteorapp.com/#/">Click here to visit Recruiting Grounds, our fully functional web app!</a>
 
 ## Project Management and Milestones
-Along with learning how to make a fully functional web app using the meteor framework, which includes using technologies such as React, MongoDB, etc., I learned how project management works in a development team by using the Github Projects feature. We also learned how to document our progress along the way. Here we have <a href="https://github.com/twt-connections">full documentation of our progress.</a>
+This project was my intro into the world of application development and software engineering. Many of these concepts I wasn't familiar with before starting this project. It was the final project in my ICS314 Software Engineering class at UH Manoa, and I learned a lot. Along with learning how to make a fully functional web app using the meteor framework, which includes using technologies such as React, MongoDB, etc., I learned how project management works in a development team by using the Github Projects feature. We learned about issue tracking, milestones, and solving merge conflicts. We also learned how to document our progress along the way. Here we have <a href="https://twt-connections.github.io/">full documentation of our progress.</a>
 
 
 <img src="../images/LandingPage2.jpeg" height="500px" width="700px">
