@@ -17,4 +17,4 @@ summary: A project assignment for my Data Networks class where I needed to modif
 For my Data Networks at class I had to create a program in C that would simulate a TCP handshake.
 
 
-<a href="https://github.com/willardperalta/maui-weather-bot"><i class="large github icon"></i>Here is a link to my code</a>
+<a href="https://github.com/willardperalta/tcp-handshake"><i class="large github icon"></i>Here is a link to my code</a>
