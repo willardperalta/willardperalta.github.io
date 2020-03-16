@@ -8,14 +8,22 @@ permalink: projects/recruitinggrounds
 date: 2018-12-07
 labels:
   - Meteor
-  - Webapp
+  - Web App
   - React
-summary: A web application I made using Meteor with a team for my software engineering class at UH Manoa in Fall 2018. The purpose of the app is to allow students and companies to easily network with each other.
+  - Project Management
+summary: A web application I made using the Meteor framework in a team of 3 for my software engineering class at UH Manoa in Fall 2018. We also learned about project management using Github projects. The purpose of the app is to allow students and companies to easily network with each other.
 ---
 
-<img src="../images/LandingPage2.jpeg" height="500px" width="900px">
+<a href="http://recruitinggrounds.meteorapp.com/#/">Click here to visit Recruiting Grounds, our fully functional web app!</a>
 
-## Overview
+## Project Management and Milestones
+Along with learning how to make a fully functional web app using the meteor framework, which includes using technologies such as React, MongoDB, etc., I learned how project management works in a development team by using the Github Projects feature. We also learned how to document our progress along the way. Here we have <a href="https://github.com/twt-connections">full documentation of our progress.</a>
+
+
+<img src="../images/LandingPage2.jpeg" height="500px" width="700px">
+
+
+## Recruiting Grounds
 For students, the process of finding internships and understanding the landscape of their field can be challenging because there is no central place to go to find opportunities. The same can be said about employers that are seeking interns or employees from colleges. Sending out mass emails through the college advisor is the usual method of contact, but is not really the most efficient. Built with Meteor, Recruiting Grounds is a social networking platform that connects companies and students who are seeking interns and internships. It creates a direct link between companies and students, allowing for a more efficient process. Either student or company can create an account, and can browse the listings for potential candidates. Users can add people to their network based on their interests and send them messages.
 
 <img src="../images/BrowseProfiles.jpeg" height="400px" width="700px">
@@ -30,5 +38,3 @@ Working on a programming project in a team was something I have never done befor
 
 <img src="../images/githubprojectboard.png" height="400px" width="700px">
 
- 
-<a href="https://github.com/twt-connections"><i class="large github icon"></i>Here is a link to our organization Github page with the project's source code.</a>
