@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/twittericon.png
+image: images/tcp.png
 title: Artificial TCP Header
 permalink: projects/tcp
 # All dates must be YYYY-MM-DD format!
