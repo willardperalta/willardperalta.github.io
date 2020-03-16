@@ -11,7 +11,7 @@ labels:
   - Web App
   - React
   - Project Management
-summary: A web application I made using the Meteor framework in a team of 3 for my software engineering class at UH Manoa in Fall 2018. We also learned about project management using Github projects. The purpose of the app is to allow students and companies to easily network with each other.
+summary: A web application I made using the Meteor framework in a team of 3 for my software engineering class at UH Manoa in Fall 2018. We also learned about project management using Github projects.
 ---
 
 <a href="http://recruitinggrounds.meteorapp.com/#/">Click here to visit Recruiting Grounds, our fully functional web app!</a>
