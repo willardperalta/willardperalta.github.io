@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/twittericon.png
+image: images/freecodecamp.png
 title: freeCodeCamp
 permalink: projects/freecodecamp
 # All dates must be YYYY-MM-DD format!
