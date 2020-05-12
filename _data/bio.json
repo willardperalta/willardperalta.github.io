@@ -93,6 +93,19 @@
   ],
   "work": [
     {
+      "company": "Maui High Performance Computing Center",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2020-05-26",
+      "endDate": "2020-09-01",
+      "summary": "Data visualization of cyber security data to guide machine learning decisions",
+      "highlights": [
+        "Data Visualization",
+        "Machine Learning",
+        "Research"
+      ]
+    },
+    {
       "company": "Hawaii State Digital Archives",
       "position": "Intern",
       "website": "",
