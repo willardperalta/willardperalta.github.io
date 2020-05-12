@@ -55,7 +55,8 @@
         "React",
         "Python",
         "Java",
-        "C"
+        "C",
+        "Bash"
       ]
     },
     {
@@ -64,8 +65,7 @@
       "keywords": [
         "MacOS",
         "Unix",
-        "Linux",
-        "Bash/Terminal"
+        "Linux"
       ]
     }
   ],
