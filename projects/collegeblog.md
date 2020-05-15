@@ -18,6 +18,8 @@ I used this project as an opportunity to create a blog with just plain HTML and 
 
 
 <img src="../images/collegeblog.png" height="615px" width="360px">
+
+
 <a href="https://willardperalta.github.io/my-college-experience/" target="_blank">A link to my college blog!</a>
 
 ## My College Story
