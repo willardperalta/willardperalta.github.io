@@ -12,8 +12,7 @@ labels:
   - C#
 summary: Where’s Ronaldo is our video game version of the classic Where’s Waldo book with a few twists! This was created in a development team for my video game design class at UH Mānoa.
 ---
-
-[![Watch the video](https://img.youtube.com/vi/j_jjUtrEcGU/hqdefault.jpg)](https://www.youtube.com/watch?v=j_jjUtrEcGU&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_jjUtrEcGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://meewstudios.github.io/microwalvo/" target="_blank">Our development team's website</a>
 
