@@ -17,7 +17,9 @@ summary: I took an English class in my last semester of college called "Digital 
 I used this project as an opportunity to create a blog with just plain HTML and CSS and Visual Studio Code. I've never created a blog before so this was a great learning experience in content creation and creative writing. I originally didn't anticipate to be there so much content, so one thing I would have done different is to plan out my design more ahead of time. But regardless I had a lot of fun with this project.
 
 
-<img src="../images/collegeblog.png" height="615px" width="360px">
+<img src="../images/bloghome.png" height="360px" width="615px">
+
+
 <a href="https://willardperalta.github.io/my-college-experience/" target="_blank">A link to my college blog!</a>
 
 ## My College Story
