@@ -22,7 +22,7 @@ Where’s Ronaldo is a competitive two to four player game in which players cont
 
 [<img target="_blank" src="../images/meewstudios.png" height="315px" width="560px">](https://meewstudios.github.io/microwalvo/)
 
-<a href="https://meewstudios.github.io/microwalvo/" target="_blank">Our development team's website!</a> Includes a development blog of the progress of our game throughout the semester
+<a href="https://meewstudios.github.io/microwalvo/" target="_blank">Our development team's website!</a> Our team name was MEEWStudios. Our website includes a development blog of the progress of our game throughout the semester.
 
 
 
