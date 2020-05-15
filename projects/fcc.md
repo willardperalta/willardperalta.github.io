@@ -25,7 +25,7 @@ During my final semester at UH Mānoa I decided to focus on web development. I r
 I created all my small projects in Codepen, if you're not familiar with Codepen, it's an interactive website where you can code small projects. These projects were made with the intention of practicing some skills I learned through freeCodeCamp. Here are all of them:
 ## Responsive Web Design Projects
 <a href="https://codepen.io/Willard_Peralta/pen/YzXZwQZ" target="_blank">Tribute Page</a><br />
-<a href="hhttps://codepen.io/Willard_Peralta/pen/wvaeWzw" target="_blank">Survey Form</a><br />
+<a href="https://codepen.io/Willard_Peralta/pen/wvaeWzw" target="_blank">Survey Form</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/jOPwMEL" target="_blank">Product Landing Page</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/bGdRYzp" target="_blank">Technical Documentation Page</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/gOpRoyR" target="_blank">Portfolio Page</a><br />
