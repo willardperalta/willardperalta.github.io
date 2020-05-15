@@ -21,7 +21,7 @@ Customers have the option to split a check at a restaurant. This means that a cu
 ## Presentation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yj4pDV237Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="../images/iou-home.png" height="515px" width="360px">
+<img src="../images/iou-home.png" height="615px" width="360px">
 
 
 
