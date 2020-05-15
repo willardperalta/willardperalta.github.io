@@ -10,11 +10,11 @@ labels:
   - HTML and CSS
   - Responsive Web Design
   - Javascript
-summary: My self study journey with web development at freeCodeCamp.com during my final semester at UH Manoa. In it I completed various Codepen projects.
+summary: My self study journey with web development at freeCodeCamp.com during my final semester at UH Manoa. In it I completed various small web development projects.
 ---
 
+## Web Development Self Study Projects
+During my final semester at UH Mānoa I decided to focus on web development. I revisited my old freeCodeCamp account and  started from the beginning where I went through lessons on HTML, CSS, and Javascript while learning different concepts related to responsive web design. Then I learned some front end libraries such as React and Bootstrap. I am currently doing the data visualization projects where I use D3.js to create some data visualizations. All of these small projects were made in Codepen.
 
-During my final semester at UH Manoa I wanted to fill in the gaps in my knowledge of web development. I decided to revisit my old freeCodeCamp account and use my weekends to hack away at all the lessons that it had to offer.
-
-
+<img src=
 <a href="https://www.freecodecamp.org/willardperalta">A link to my freeCodeCamp portfolio!</a>
