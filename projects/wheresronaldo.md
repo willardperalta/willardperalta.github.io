@@ -14,7 +14,7 @@ summary: Where’s Ronaldo is our video game version of the classic Where’s Wa
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_jjUtrEcGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[<img src="meewstudios.png">](https://meewstudios.github.io/microwalvo/)
+[<img src="../images/meewstudios.png">](https://meewstudios.github.io/microwalvo/)
 <a href="https://meewstudios.github.io/microwalvo/" target="_blank">Our development team's website!.</a> Includes a development blog of the progress of our game throughout the semester
 
 In a development team of 4, we created Where's Ronaldo using the Unity Game engine for our video game design class. Art assets were created by our artist, and the developers wrote the game scripts in C#. We also had 2 students from a different music class create the music.
