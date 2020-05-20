@@ -30,9 +30,13 @@ I created all my small projects in Codepen, if you're not familiar with Codepen,
 <a href="https://codepen.io/Willard_Peralta/pen/bGdRYzp" target="_blank">Technical Documentation Page</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/gOpRoyR" target="_blank">Portfolio Page</a><br />
 
-## Front End Library Projects
+## Front End Library Projects (React)
 <a href="https://codepen.io/Willard_Peralta/pen/WNQjvER" target="_blank">Random Quote Machine</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/ZEbKrqx" target="_blank">Markdown Previewer</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/MWamVzR" target="_blank">Drum Machine</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/xxwrmzR" target="_blank">Javascript Calculator</a><br />
 <a href="https://codepen.io/Willard_Peralta/pen/ZEbjpwO" target="_blank">React Pomodoro Clock</a><br />
+
+## Data Visualization Projects (D3.js)
+<a href="https://codepen.io/Willard_Peralta/pen/oNjQEJo?editors=0110" target="_blank">Random Quote Machine</a><br />
+
