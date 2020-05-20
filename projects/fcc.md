@@ -38,5 +38,5 @@ I created all my small projects in Codepen, if you're not familiar with Codepen,
 <a href="https://codepen.io/Willard_Peralta/pen/ZEbjpwO" target="_blank">React Pomodoro Clock</a><br />
 
 ## Data Visualization Projects (D3.js)
-<a href="https://codepen.io/Willard_Peralta/pen/oNjQEJo?editors=0110" target="_blank">Random Quote Machine</a><br />
+<a href="https://codepen.io/Willard_Peralta/pen/oNjQEJo?editors=0110" target="_blank">Bar Chart of U.S. GDP Data 1945-2015</a><br />
 
