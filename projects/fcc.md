@@ -39,4 +39,6 @@ I created all my small projects in Codepen, if you're not familiar with Codepen,
 
 ## Data Visualization Projects (D3.js)
 <a href="https://codepen.io/Willard_Peralta/pen/oNjQEJo?editors=0110" target="_blank">Bar Chart of U.S. GDP Data 1945-2015</a><br />
+<a href="https://codepen.io/Willard_Peralta/pen/oNjmvyY?editors=0010" target="_blank">Bar Chart of U.S. GDP Data 1945-2015</a><br />
+
 
