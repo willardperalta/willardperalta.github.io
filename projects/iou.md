@@ -13,7 +13,7 @@ labels:
 summary: I.O.U. is an Android mobile app designed for college students that often split checks at restaurants. It keeps tabs on how much money each person owes each other.
 ---
 ## Mobile Design
-In my mobile design class at UH Mānoa, I developed an Android app with a partner called I.O.U. We needed to approach our app from an entrepreneurial perspective and target a specific audience, our specific demographic was college students that are part of large friend groups who eat out at restaurants often. 
+In my mobile design class at UH Mānoa, I developed an Android app with a partner called I.O.U. We needed to approach our app from an entrepreneurial perspective and target a specific audience, our specific demographic was college students that are part of large friend groups who eat out at restaurants often. <a href="../images/ics466_final_paper.pdf" target="_blank">Here is our in depth paper we wrote which goes into detail about the design, implementation, and results from peer evaluations. </a>
 
 <img src="../images/iou-home.png" height="615px" width="360px">
 
