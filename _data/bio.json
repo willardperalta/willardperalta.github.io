@@ -101,9 +101,10 @@
       "endDate": "2020-09-01",
       "summary": "Data visualization of cyber security data to guide machine learning decisions",
       "highlights": [
-        "Data Visualization",
-        "Machine Learning",
-        "Research"
+        "Large scale graph data visualization of cyber security data using Python, Matplotlib, Numpy, Bokeh, NetworkX, and other tools",
+        "Process large amounts of data files and turn them into interactive data visualization web applications",
+        "Give short biweekly technical presentations documenting my process",
+        "Work independently, prioritize tasks, collaborate with others"
       ]
     },
     {
@@ -114,8 +115,10 @@
       "endDate": "2019-05-01",
       "summary": "Software engineering internship at Hawaii State Digital Archives",
       "highlights": [
-        "Helped implement Optical Character Recognition web micro-service",
-        "Java, Scrum/Agile, Git"
+        "Develop Optical Character Recognition web micro-service in Java",
+        "Research OCR libraries and decide on the use of the Tesseract Java OCR library",
+        "As Scrum devteam member, carry out dev tasks based on user stories",
+        "Use developer tools including Java, Git, Atlassian Tools, Maven, Eclipse"
       ]
     },
     {
@@ -126,9 +129,9 @@
       "endDate": "2019-01-01",
       "summary": "Website Assistant for the Department of East Asian Language and Literature",
       "highlights": [
-        "Maintained the website for the Department of East Asian Literature and Languages",
-        "Fixed HTML of existing web pages including faculty profiles and course directories",
-        "Met weekly with website committee to discuss specific needs of the website"
+        "Maintain website for the Department of East Asian Literature and Languages",
+        "Fix HTML of existing web pages including faculty profiles and course directories",
+        "Meet weekly with website committee to discuss specific needs of the website"
       ]
     },
     {
@@ -140,8 +143,8 @@
       "summary": "Video editor for a wedding videography company.",
       "highlights": [
         "Edit wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
-        "Sync video and audio, color correct, organize footage, export video files
-"
+        "Sync video and audio, color correct, organize footage, export video files",
+        "Edit and revise projects based on client requests"
       ]
     }
   ],
