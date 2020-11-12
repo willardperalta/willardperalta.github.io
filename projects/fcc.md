@@ -10,11 +10,11 @@ labels:
   - HTML and CSS
   - Responsive Web Design
   - Javascript
-summary: My self study journey with web development at freeCodeCamp.com during my final semester at UH Manoa. In it I completed various small web development projects to fill in the gaps in my knowledge of web development.
+summary: A few web design and JavaScript projects from freeCodeCamp.org that I worked on in my free time to sharpen my coding skills. Examples of things I made include making a Pomodoro timer with React, and a heatmap with D3.js.
 ---
 
 ## Web Development Self Study Projects
-During my final semester at UH Mānoa I decided that I wanted to focus on web development. I wanted to fill in the gaps in my knowledge of web development since I didn't do much of it during college, so I revisited my old freeCodeCamp account and  started from the beginning where I went through lessons on HTML, CSS, and Javascript while learning different concepts related to responsive web design. Then I learned some front end libraries such as React and Bootstrap. I am currently doing the data visualization projects where I use D3.js to create some data visualizations, and then next I will learn backend technologies like Node.js. All of these small projects were made in Codepen.
+I wanted to sharpen my coding skills so I revisited my old freeCodeCamp account and started from the beginning where I went through lessons on HTML, CSS, and JavaScript while learning different concepts related to responsive web design. Then I learned some front end libraries such as React and Bootstrap. Then I used D3.js to create some data visualizations, and learned how to use backend technologies like Node.js. All of these small projects were made in Codepen.
 
 <img src="../images/freecodecamp.png" height="360px" width="615px">
 
@@ -22,7 +22,7 @@ During my final semester at UH Mānoa I decided that I wanted to focus on web de
 <a href="https://www.freecodecamp.org/willardperalta" target="_blank">A link to my freeCodeCamp profile!</a>
 
 ## All of my Codepens
-I created all my small projects in Codepen, an interactive website where you can code small projects. These projects were part of the curriculum as well. The objective of these projects were to simply practice using the technologies that I learned in the freeCodeCamp tutorials. Different projects had varying levels of difficulty, below is my favorite one I've done so far! Below that are the rest of them. <br/>
+I created all my small projects in Codepen, an interactive website where you can code small projects. These projects were part of the curriculum as well. The objective of these projects were to simply practice using the technologies that I learned in the freeCodeCamp tutorials. Different projects had varying levels of difficulty, below is my favorite one I've done! <br/>
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="Willard_Peralta" data-slug-hash="RwWdwBB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="5/22/20 D3.js Heat map FCC">
   <span>See the Pen <a href="https://codepen.io/Willard_Peralta/pen/RwWdwBB">

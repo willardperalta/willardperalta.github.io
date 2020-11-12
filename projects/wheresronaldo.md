@@ -10,7 +10,7 @@ labels:
   - Video Game Development
   - Unity
   - C#
-summary: Where’s Ronaldo is our video game version of the classic Where’s Waldo book with a few twists! This was created in a development team for my video game design class at UH Mānoa.
+summary: Where’s Ronaldo is our video game version of the classic Where’s Waldo book with a few twists! This game was created with the Unity game engine in a development team for my video game design class at UH Mānoa.
 ---
 ## Video Game Design in a team
 In a development team of 4, we created Where's Ronaldo using the Unity Game engine for our video game design class. Art assets were created by our artist, and the developers wrote the game scripts in C#. We also had 2 students from a different music class create the music.
