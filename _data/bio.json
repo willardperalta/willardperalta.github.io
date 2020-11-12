@@ -9,8 +9,8 @@
     "summary": "I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and web development.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "86732",
+      "city": "Kahului",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -49,14 +49,15 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Javascript",
-        "HTML",
-        "CSS",
-        "React",
-        "Python",
         "Java",
+        "Python",
+        "Javascript",
+        "HTML/CSS",
+        "React",
+        "Node.js",
         "C",
-        "Bash"
+        "Bash",
+        "SQL"
       ]
     },
     {
@@ -64,7 +65,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Unix",
+        "Windows",
         "Linux",
         "Android"
       ]
@@ -101,10 +102,9 @@
       "endDate": "2020-09-01",
       "summary": "Data visualization of cyber security data to guide machine learning decisions",
       "highlights": [
-        "Large scale graph data visualization of cyber security data using Python, Matplotlib, Numpy, Bokeh, NetworkX, and other tools",
-        "Process large amounts of data files and turn them into interactive data visualization web applications",
-        "Give short biweekly technical presentations documenting my process",
-        "Work independently, prioritize tasks, collaborate with others"
+        "Built web based visualizations using various Python technologies including Numpy, Matplotlib, NetworkX, and Bokeh",
+        "Evaluated, proposed, and implemented best tooling and processes to visualize large scale DoD cyber security data files",
+        "Optimized visualization by using relational databases and SQLite"
       ]
     },
     {
@@ -115,10 +115,10 @@
       "endDate": "2019-05-01",
       "summary": "Software engineering internship at Hawaii State Digital Archives",
       "highlights": [
-        "Develop Optical Character Recognition web micro-service in Java",
-        "Research OCR libraries and decide on the use of the Tesseract Java OCR library",
-        "As Scrum devteam member, carry out dev tasks based on user stories",
-        "Use developer tools including Java, Git, Atlassian Tools, Maven, Eclipse"
+        "Developed Optical Character Recognition web micro-service with Java",
+        "Researched OCR libraries and decide on the use of the Tesseract Java OCR library",
+        "As Agile/Scrum devteam member, carried out dev tasks based on user stories",
+        "Used developer tools including Java, Git, Atlassian Tools, Maven, Eclipse"
       ]
     },
     {
@@ -129,9 +129,9 @@
       "endDate": "2019-01-01",
       "summary": "Website Assistant for the Department of East Asian Language and Literature",
       "highlights": [
-        "Maintain website for the Department of East Asian Literature and Languages",
-        "Fix HTML of existing web pages including faculty profiles and course directories",
-        "Meet weekly with website committee to discuss specific needs of the website"
+        "Maintained website for the Department of East Asian Literature and Languages",
+        "Fixed HTML of existing web pages including faculty profiles and course directories",
+        "Met weekly with website committee to discuss specific needs of the website"
       ]
     },
     {
@@ -142,9 +142,9 @@
       "endDate": "Present",
       "summary": "Video editor for a wedding videography company.",
       "highlights": [
-        "Edit wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
-        "Sync video and audio, color correct, organize footage, export video files",
-        "Edit and revise projects based on client requests"
+        "Edited wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
+        "Synced video and audio, color corrected, organized footage, exported video files",
+        "Edited and revised projects based on client requests"
       ]
     }
   ],
@@ -154,12 +154,6 @@
       "date": "2017, 2018, 2019, 2020",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Earn a GPA of over 3.5 at the University of Hawaii at Manoa."
-    },
-    {
-      "title": "B+ Scholarship",
-      "date": "2015",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
