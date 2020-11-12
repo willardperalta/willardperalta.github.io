@@ -6,7 +6,7 @@
     "email": "willard.peralta@gmail.com",
     "phone": "808-385-5380",
     "website": "https://willardperalta.github.io",
-    "summary": "I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and web development.",
+    "summary": "I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and data visualization.",
     "location": {
       "address": "",
       "postalCode": "86732",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Web Development",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Mobile Development",
+      "name": "Web Development",
       "keywords": [
       ]
     }
