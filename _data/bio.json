@@ -100,11 +100,13 @@
       "website": "",
       "startDate": "2020-05-26",
       "endDate": "2020-09-01",
-      "summary": "Data visualization of cyber security data to guide machine learning decisions",
+      "summary": "Developed web based visualiztion tool to visualize cyber security data",
       "highlights": [
-        "Built web based visualizations using various Python technologies including Numpy, Matplotlib, NetworkX, and Bokeh",
-        "Evaluated, proposed, and implemented best tooling and processes to visualize large scale DoD cyber security data files",
-        "Optimized visualization by using relational databases and SQLite"
+        "Built web based visualization illustrating large scale DoD cyber security data, which would integrate with another machine learning anomaly detection research project",
+        "Researched, proposed, and implemented best tooling and processes which included a mix of Python, Numpy, Matplotlib, NetworkX, and Bokeh",
+        "Improved number of visualized nodes by 1000%, from 10,000 nodes to 1,000,000 nodes",
+        "Communicated with team twice daily via remote meetings to prioritize tasks and set goals",
+        "Delivered five technical presentations to directors, mentors, and other interns"
       ]
     },
     {
@@ -113,12 +115,12 @@
       "website": "",
       "startDate": "2019-01-01",
       "endDate": "2019-05-01",
-      "summary": "Software engineering internship at Hawaii State Digital Archives",
+      "summary": "Developed OCR web-microservice in Java",
       "highlights": [
-        "Developed Optical Character Recognition web micro-service with Java",
-        "Researched OCR libraries and decide on the use of the Tesseract Java OCR library",
-        "As Agile/Scrum devteam member, carried out dev tasks based on user stories",
-        "Used developer tools including Java, Git, Atlassian Tools, Maven, Eclipse"
+        "Developed Optical Character Recognition web micro-service using tools such as Java, Git, Atlassian Tools, Maven, and Eclipse",
+        "Independently researched Java OCR libraries and determined best library",
+        "As Agile/Scrum devteam member, carried out dev tasks based on user stories using object-oriented programming, and communicated progress in daily stand ups",
+        "Initiated the creation of documentation for merging branches and version control"
       ]
     },
     {
@@ -127,11 +129,10 @@
       "website": "https://www.hawaii.edu/eall/",
       "startDate": "2018-02-01",
       "endDate": "2019-01-01",
-      "summary": "Website Assistant for the Department of East Asian Language and Literature",
+      "summary": "Maintained website for the Department of East Asian Literature and Languages at UH Manoa",
       "highlights": [
-        "Maintained website for the Department of East Asian Literature and Languages",
-        "Fixed HTML of existing web pages including faculty profiles and course directories",
-        "Met weekly with website committee to discuss specific needs of the website"
+        "Fixed graduate faculty directory to allow easier access of graduate school information",
+        "Initiated better design of home page to include mission statement and better news feed"
       ]
     },
     {
@@ -140,11 +141,11 @@
       "website": "https://www.hifocused.com",
       "startDate": "2015-06-01",
       "endDate": "Present",
-      "summary": "Video editor for a wedding videography company.",
+      "summary": "Edited wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
       "highlights": [
-        "Edited wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
+        "Edited over 200 professional wedding videos, about 50% of all of the company’s total videos, therefore freeing up 2,000 hours of company time",
         "Synced video and audio, color corrected, organized footage, exported video files",
-        "Edited and revised projects based on client requests"
+        "Edited full wedding highlight, feature, and doc videos in Final Cut 7 and Adobe Premiere Pro CC using creative narrative storytelling techniques."
       ]
     }
   ],
