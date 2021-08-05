@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Willard Peralta Jr.",
-    "label": "Student",
-    "picture": "https://willardperalta.github.io/images/willardperalta.jpg",
+    "label": "Application Engineer",
+    "picture": "https://willardperalta.github.io/images/willardperalta2.jpg",
     "email": "willard.peralta@gmail.com",
     "phone": "808-385-5380",
     "website": "https://willardperalta.github.io",
-    "summary": "I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and data visualization.",
+    "summary": "I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and web development.",
     "location": {
       "address": "",
-      "postalCode": "86732",
+      "postalCode": "96732",
       "city": "Kahului",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "willardperalta",
-        "url": "http://linkedin.com/in/willard-peralta-2341b6139/"
+        "url": "https://www.linkedin.com/in/willard-peralta-jr-2341b6139/"
       }
     ]
   },
