@@ -6,7 +6,7 @@
     "email": "willard.peralta@gmail.com",
     "phone": "808-385-5380",
     "website": "https://willardperalta.github.io",
-    "summary": "I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and web development.",
+    "summary": "Currently an Application Engineer at RCUH. I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and web development.",
     "location": {
       "address": "",
       "postalCode": "96732",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "name": "Data Visualization",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "Web Development",
+      "name": "AI",
       "keywords": [
       ]
     }
@@ -54,10 +54,9 @@
         "Javascript",
         "HTML/CSS",
         "React",
-        "Node.js",
         "C",
         "Bash",
-        "SQL"
+        "C#"
       ]
     },
     {
@@ -94,8 +93,21 @@
     }
   ],
   "work": [
+  	 {
+      "company": "RCUH",
+      "position": "Application Engineer",
+      "website": "",
+      "startDate": "2021-05-01",
+      "endDate": "Present",
+      "summary": "Web development",
+      "highlights": [
+        "Application engineering at the Applied Research Lab of RCUH in support of the Maui High Performance Computing Center",
+        "Front end development",
+        "HTML, CSS, JavaScript, React, jquery, AJAX, REST APIs, Web Browser API, unit testing, Git, Atlassian tools, Linux"
+      ]
+    },
     {
-      "company": "Maui High Performance Computing Center",
+      "company": "RCUH",
       "position": "Intern",
       "website": "",
       "startDate": "2020-05-26",
