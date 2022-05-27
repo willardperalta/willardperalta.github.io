@@ -99,11 +99,13 @@
       "website": "",
       "startDate": "2021-05-01",
       "endDate": "Present",
-      "summary": "Web development",
+      "summary": "Designed, developed, tested, researched, and supported software applications at the MHPCC in order to provide HPC resources to DoD scientists and engineers, providing a low barrier to entry for novice HPC users as well as streamline work for advanced users.",
       "highlights": [
-        "Application engineering at the Applied Research Lab of RCUH in support of the Maui High Performance Computing Center",
-        "Front end development",
-        "HTML, CSS, JavaScript, React, jquery, AJAX, REST APIs, Web Browser API, unit testing, Git, Atlassian tools, Linux"
+"• Development: Developed Single Page Applications with HTML, CSS, React and other modern web technologies. Supported and improved an existing HPC Portal web application that provides convenient web access to DoD HPC resources and applications such as HPC Batch Job submission.",
+"• UI/UX design: Created basic wireframes, mockups, and prototypes. Basic Adobe Photoshop, Illustrator, and Adobe XD skills",
+"• R&D for HPC interfaces: Conducted research of state of the art technologies in order to improve existing HPCUI solutions including cloud video streaming tech, user interfaces for Job management, and ML/AI platforms for handling Job workflows",
+"• Technical Support: provided technical support and general administration of an Atlassian Tools centered web environment, Jira Project administration, Confluence Space migration",
+"• Technologies/Processes: JavaScript, React, HTML/CSS, AJAX, NPM, Webpack, REST APIs, Web Browser API, Python, BASH, Linux, Unit testing, CI/CD, Git Version Control, RPMs, Jenkins, Atlassian tools, Agile"
       ]
     },
     {
@@ -152,7 +154,7 @@
       "position": "Video Editor",
       "website": "https://www.hifocused.com",
       "startDate": "2015-06-01",
-      "endDate": "Present",
+      "endDate": "2020-05-01",
       "summary": "Edited wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
       "highlights": [
         "Edited over 200 professional wedding videos, about 50% of all of the company’s total videos, therefore freeing up 2,000 hours of company time",
