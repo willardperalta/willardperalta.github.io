@@ -96,7 +96,7 @@
     }
   ],
   "work": [
-  	 {
+  	{
       "company": "RCUH",
       "position": "Application Engineer",
       "website": "https://www.rcuh.com/",
@@ -154,5 +154,5 @@
         "Initiated the creation of documentation for merging branches and version control"
       ]
     },
-   ]
+   ],
 }
