@@ -111,21 +111,8 @@
       ]
     },
     {
-      "company": "Hifocused Cinematography",
-      "position": "Video Editor",
-      "website": "https://www.hifocused.com",
-      "startDate": "2015-06-01",
-      "endDate": "2020-05-01",
-      "summary": "Edited wedding films with Adobe Premiere Pro CC and Adobe Media Encoder",
-      "highlights": [
-        "Edited over 200+ professional wedding films",
-        "Synced video and audio, color corrected, organized footage, exported video files",
-        "Edited full wedding highlight, feature, and doc videos in Adobe Premiere Pro CC using creative cinematic storytelling techniques to create complex wedding day narratives."
-      ]
-    },
-    {
       "company": "RCUH",
-      "position": "Intern",
+      "position": "Data Visualization Intern",
       "website": "https://www.rcuh.com/",
       "startDate": "2020-05-26",
       "endDate": "2020-09-01",
@@ -140,7 +127,7 @@
     },
     {
       "company": "Hawaii State Digital Archives",
-      "position": "Intern",
+      "position": "Software Engineering Intern",
       "website": "",
       "startDate": "2019-01-01",
       "endDate": "2019-05-01",
@@ -151,6 +138,19 @@
         "As Agile/Scrum devteam member, carried out dev tasks based on user stories using object-oriented programming, and communicated progress in daily stand ups",
         "Initiated the creation of documentation for merging branches and version control"
       ]
-    }
+    },
+    {
+      "company": "Hifocused Cinematography",
+      "position": "Video Editor",
+      "website": "https://www.hifocused.com",
+      "startDate": "2015-06-01",
+      "endDate": "2020-05-01",
+      "summary": "Edited wedding films with Adobe Premiere Pro CC and Adobe Media Encoder",
+      "highlights": [
+        "Edited over 200+ professional wedding films",
+        "Synced video and audio, color corrected, organized footage, exported video files",
+        "Edited full wedding highlight, feature, and doc videos in Adobe Premiere Pro CC using creative cinematic storytelling techniques to create complex wedding day narratives."
+      ]
+    },
    ]
 }
