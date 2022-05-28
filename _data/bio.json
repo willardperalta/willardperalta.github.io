@@ -6,11 +6,11 @@
     "email": "willard.peralta@gmail.com",
     "phone": "808-385-5380",
     "website": "https://willardperalta.github.io",
-    "summary": "Currently an Application Engineer at RCUH. I graduated from the University of Hawai'i at Mānoa in Spring 2020 with a Bachelor's of Science in Computer Science. My interests are in software engineering and web development.",
+    "summary": "Application Engineer with RCUH supporting the Maui High Performance Computing Center, a DoD HPC Center.",
     "location": {
       "address": "",
-      "postalCode": "96732",
-      "city": "Kahului",
+      "postalCode": "96753",
+      "city": "Kihei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -63,7 +63,12 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Git",
+        "NPM",
+        "Webpack",
+        "Jenkins",
+        "Jira/Confluence/Bitbucket",
+        "REST APIs",
         "Windows",
         "Linux",
         "Android"
@@ -78,8 +83,7 @@
       "startDate": "2017-09-01",
       "endDate": "2020-05-16",
       "gpa": "3.71",
-      "courses": ["Design for Mobile Devices", "Video Game Design", "Python Image Processing Project", "Data Networks", "Operating Systems", "Software Engineering", "Database Systems", "AI Programming", "Algorithms", "Computer Vision", "Discrete Math"
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii Maui College, Kahului, HI",
@@ -88,33 +92,46 @@
       "startDate": "2015-09-01",
       "endDate": "2017-05-01",
       "gpa": "3.93",
-      "courses": ["Intro to Computer Science"
-      ]
+      "courses": []
     }
   ],
   "work": [
   	 {
       "company": "RCUH",
       "position": "Application Engineer",
-      "website": "",
+      "website": "https://www.rcuh.com/",
       "startDate": "2021-05-01",
       "endDate": "Present",
       "summary": "Designed, developed, tested, researched, and supported software applications at the MHPCC in order to provide HPC resources to DoD scientists and engineers, providing a low barrier to entry for novice HPC users as well as streamline work for advanced users.",
       "highlights": [
-"• Development: Developed Single Page Applications with HTML, CSS, React and other modern web technologies. Supported and improved an existing HPC Portal web application that provides convenient web access to DoD HPC resources and applications such as HPC Batch Job submission.",
-"• UI/UX design: Created basic wireframes, mockups, and prototypes. Basic Adobe Photoshop, Illustrator, and Adobe XD skills",
-"• R&D for HPC interfaces: Conducted research of state of the art technologies in order to improve existing HPCUI solutions including cloud video streaming tech, user interfaces for Job management, and ML/AI platforms for handling Job workflows",
-"• Technical Support: provided technical support and general administration of an Atlassian Tools centered web environment, Jira Project administration, Confluence Space migration",
-"• Technologies/Processes: JavaScript, React, HTML/CSS, AJAX, NPM, Webpack, REST APIs, Web Browser API, Python, BASH, Linux, Unit testing, CI/CD, Git Version Control, RPMs, Jenkins, Atlassian tools, Agile"
+        "Development: Developed Single Page Applications with HTML, CSS, React and other modern web technologies. Supported and improved an existing HPC Portal web application that provides convenient web access to DoD HPC resources and applications such as HPC Batch Job submission.",
+        "UI/UX design: Created basic wireframes, mockups, and prototypes. Basic Adobe Photoshop, Illustrator, and Adobe XD skills",
+        "R&D for HPC interfaces: Conducted research of state of the art technologies in order to improve existing HPCUI solutions including cloud video streaming tech, user interfaces for Job management, and ML/AI platforms for handling Job workflows",
+        "Technical Support: provided technical support and general administration of an Atlassian Tools centered web environment, Jira Project administration, Confluence Space migration",
       ]
     },
     {
+      "company": "Hifocused Cinematography",
+      "position": "Video Editor",
+      "website": "https://www.hifocused.com",
+      "startDate": "2015-06-01",
+      "endDate": "2020-05-01",
+      "summary": "Edited wedding films with Adobe Premiere Pro CC and Adobe Media Encoder",
+      "highlights": [
+        "Edited over 200+ professional wedding films",
+        "Synced video and audio, color corrected, organized footage, exported video files",
+        "Edited full wedding highlight, feature, and doc videos in Adobe Premiere Pro CC using creative cinematic storytelling techniques to create complex wedding day narratives."
+      ]
+    }
+  ],
+  "internships": [
+     {
       "company": "RCUH",
       "position": "Intern",
-      "website": "",
+      "website": "https://www.rcuh.com/",
       "startDate": "2020-05-26",
       "endDate": "2020-09-01",
-      "summary": "Developed web based visualiztion tool to visualize cyber security data",
+      "summary": "Developed web based visualization tool to visualize cyber security data with Python",
       "highlights": [
         "Built web based visualization illustrating large scale DoD cyber security data, which would integrate with another machine learning anomaly detection research project",
         "Researched, proposed, and implemented best tooling and processes which included a mix of Python, Numpy, Matplotlib, NetworkX, and Bokeh",
@@ -129,7 +146,7 @@
       "website": "",
       "startDate": "2019-01-01",
       "endDate": "2019-05-01",
-      "summary": "Developed OCR web-microservice in Java",
+      "summary": "Developed OCR web-microservice with Java",
       "highlights": [
         "Developed Optical Character Recognition web micro-service using tools such as Java, Git, Atlassian Tools, Maven, and Eclipse",
         "Independently researched Java OCR libraries and determined best library",
@@ -137,32 +154,5 @@
         "Initiated the creation of documentation for merging branches and version control"
       ]
     },
-    {
-      "company": "Hifocused Cinematography",
-      "position": "Video Editor",
-      "website": "https://www.hifocused.com",
-      "startDate": "2015-06-01",
-      "endDate": "2020-05-01",
-      "summary": "Edited wedding videos with Adobe Premiere Pro and Adobe Media Encoder",
-      "highlights": [
-        "Edited over 200 professional wedding videos, about 50% of all of the company’s total videos, therefore freeing up 2,000 hours of company time",
-        "Synced video and audio, color corrected, organized footage, exported video files",
-        "Edited full wedding highlight, feature, and doc videos in Final Cut 7 and Adobe Premiere Pro CC using creative narrative storytelling techniques."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "UH Manoa Dean's List",
-      "date": "2017, 2018, 2019, 2020",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Earn a GPA of over 3.5 at the University of Hawaii at Manoa."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ]
 }
